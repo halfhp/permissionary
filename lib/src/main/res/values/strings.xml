@@ -1,0 +1,9 @@
+<resources>
+    <string name="pmny_app_name">lib</string>
+    <string name="pmny_perm_denied_dlg_title_default">Permission Denied</string>
+    <string name="pmny_perm_denied_dlg_title_confirm_default">Are You Sure?</string>
+    <string name="pmny_open_settings">Open Settings</string>
+    <string name="pmny_allow">Allow</string>
+    <string name="pmny_dismiss">Dismiss</string>
+    <string name="pmny_deny">Deny</string>
+</resources>
