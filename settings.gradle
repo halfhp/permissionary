@@ -1,1 +1,1 @@
-include ':demo-app', ':lib'
+include ':demo-app', ':permissionary'

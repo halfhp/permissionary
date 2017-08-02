@@ -32,7 +32,7 @@ dependencies {
 
     testCompile 'junit:junit:4.12'
 
-    compile project(":lib")
+    compile project(":permissionary")
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     compile "com.android.support:appcompat-v7:$theSupportLibVersion"
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
